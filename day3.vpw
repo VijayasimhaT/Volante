@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<workspace name="day3" type="VolanteProject">
+	<selected-element root="C:/Volante/Hands-on/DAY3/MessageFlow/MessageFlow.car">MessageFlow/ComputeDebtSummaryFlow</selected-element>
+	<open-files>
+		<file>ExceptionHandling\ExceptionHandling.car</file>
+		<file>MessageFlow\MessageFlow.car</file>
+		<file>Mappings\Mappings.car</file>
+		<file>Messages\Messages.car</file>
+	</open-files>
+	<recent-files>
+	</recent-files>
+	<additionalTestClasspaths>
+	</additionalTestClasspaths>
+	<additional-properties>
+		<propertymap>
+			<property name="VCS">
+				<value>
+					<propertymap>
+					</propertymap>
+				</value>
+			</property>
+		</propertymap>
+	</additional-properties>
+</workspace>

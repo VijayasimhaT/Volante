@@ -1,0 +1,12 @@
+<TransformException>
+	<Type>TransformException</Type>
+	<Message>Invalid value '610630' for subfield 'Date'. It must be valid date expressed as YYMMDD.</Message>
+	<ErrorCode>T50</ErrorCode>
+	<Severity>error</Severity>
+	<Cascadable>true</Cascadable>
+	<FieldName>A.30.Date</FieldName>
+	<FieldID>A.30.Date</FieldID>
+	<Internal-Code>T50</Internal-Code>
+	<Error-Type>Validation</Error-Type>
+	<Trace>at MT101.validate</Trace>
+</TransformException>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<workspace name="MessageFlow" type="VolanteProject">
+	<selected-element root="C:/Volante/Hands-on/MessageFlow_Handson/MessagesFlow/MessagesFlow.car">MessagesFlow/MT101ToCanonicalFlow</selected-element>
+	<open-files>
+		<file>Messages\Messages.car</file>
+		<file>Mappings\Mappings.car</file>
+		<file>MessagesFlow\MessagesFlow.car</file>
+	</open-files>
+	<recent-files>
+	</recent-files>
+	<additionalTestClasspaths>
+	</additionalTestClasspaths>
+	<additional-properties>
+		<propertymap>
+			<property name="VCS">
+				<value>
+					<propertymap>
+					</propertymap>
+				</value>
+			</property>
+		</propertymap>
+	</additional-properties>
+</workspace>

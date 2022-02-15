@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<workspace name="day2" type="VolanteProject">
+	<selected-element root="C:/Volante/Hands-on/DAY2/day2/cart/cart.car">cart/CSV/Default</selected-element>
+	<open-files>
+		<file>cart\cart.car</file>
+	</open-files>
+	<recent-files>
+	</recent-files>
+	<additionalTestClasspaths>
+	</additionalTestClasspaths>
+	<additional-properties>
+		<propertymap>
+			<property name="VCS">
+				<value>
+					<propertymap>
+					</propertymap>
+				</value>
+			</property>
+		</propertymap>
+	</additional-properties>
+</workspace>

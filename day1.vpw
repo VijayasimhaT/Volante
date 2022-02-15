@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<workspace name="day1" type="VolanteProject">
+	<selected-element root="C:/Volante/Hands-on/DAY1/day1/day1_cart/cart.car">cart/Function Definitions/AgentBICCheck</selected-element>
+	<open-files>
+		<file>day1_cart\cart.car</file>
+	</open-files>
+	<recent-files>
+	</recent-files>
+	<additionalTestClasspaths>
+	</additionalTestClasspaths>
+	<additional-properties>
+		<propertymap>
+			<property name="VCS">
+				<value>
+					<propertymap>
+					</propertymap>
+				</value>
+			</property>
+		</propertymap>
+	</additional-properties>
+</workspace>

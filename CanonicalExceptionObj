@@ -1,0 +1,68 @@
+<TransformException>
+	<Type>TransformException</Type>
+	<Message>Validation 'E1' failed. Field 'Records.ExecutionDate' is not valid</Message>
+	<ErrorCode>E1</ErrorCode>
+	<Severity>error</Severity>
+	<Cascadable>true</Cascadable>
+	<FieldName>Records.ExecutionDate</FieldName>
+	<FieldID>Records[0].ExecutionDate</FieldID>
+	<Internal-Code>E1</Internal-Code>
+	<Error-Type>Validation</Error-Type>
+	<Trace>at Canonical.validate</Trace>
+</TransformException>
+<TransformException>
+	<Type>TransformException</Type>
+	<Message>Validation 'E1' failed. Field 'Records.ExecutionDate' is not valid</Message>
+	<ErrorCode>E1</ErrorCode>
+	<Severity>error</Severity>
+	<Cascadable>true</Cascadable>
+	<FieldName>Records.ExecutionDate</FieldName>
+	<FieldID>Records[1].ExecutionDate</FieldID>
+	<Internal-Code>E1</Internal-Code>
+	<Error-Type>Validation</Error-Type>
+	<Trace>at Canonical.validate</Trace>
+</TransformException>
+<TransformException>
+	<Type>TransformException</Type>
+	<Message>Not-null check failed. The field 'Records.OrderingCustomerId' has null value</Message>
+	<ErrorCode>SRT600</ErrorCode>
+	<Severity>fatal</Severity>
+	<Cascadable>true</Cascadable>
+	<FieldName>Records.OrderingCustomerId</FieldName>
+	<FieldID>Records[0].OrderingCustomerId</FieldID>
+	<Internal-Code>SRT600</Internal-Code>
+	<Trace>at Canonical.validate</Trace>
+</TransformException>
+<TransformException>
+	<Type>TransformException</Type>
+	<Message>Not-null check failed. The field 'Records.OrderingCustomerAccount' has null value</Message>
+	<ErrorCode>SRT600</ErrorCode>
+	<Severity>fatal</Severity>
+	<Cascadable>true</Cascadable>
+	<FieldName>Records.OrderingCustomerAccount</FieldName>
+	<FieldID>Records[0].OrderingCustomerAccount</FieldID>
+	<Internal-Code>SRT600</Internal-Code>
+	<Trace>at Canonical.validate</Trace>
+</TransformException>
+<TransformException>
+	<Type>TransformException</Type>
+	<Message>Not-null check failed. The field 'Records.OrderingCustomerId' has null value</Message>
+	<ErrorCode>SRT600</ErrorCode>
+	<Severity>fatal</Severity>
+	<Cascadable>true</Cascadable>
+	<FieldName>Records.OrderingCustomerId</FieldName>
+	<FieldID>Records[1].OrderingCustomerId</FieldID>
+	<Internal-Code>SRT600</Internal-Code>
+	<Trace>at Canonical.validate</Trace>
+</TransformException>
+<TransformException>
+	<Type>TransformException</Type>
+	<Message>Not-null check failed. The field 'Records.OrderingCustomerAccount' has null value</Message>
+	<ErrorCode>SRT600</ErrorCode>
+	<Severity>fatal</Severity>
+	<Cascadable>true</Cascadable>
+	<FieldName>Records.OrderingCustomerAccount</FieldName>
+	<FieldID>Records[1].OrderingCustomerAccount</FieldID>
+	<Internal-Code>SRT600</Internal-Code>
+	<Trace>at Canonical.validate</Trace>
+</TransformException>
